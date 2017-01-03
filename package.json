@@ -1,0 +1,28 @@
+{
+  "name": "brikar-client-cli",
+  "version": "0.0.1",
+  "description": "Core support for command line (CLI) utility applications: basic configuration primitives and promise-based async RESTful client support",
+  "main": "js/main.js",
+  
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/truward/brikar-client-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "helper",
+    "rest",
+    "brikar"
+  ],
+  "author": "Alexander Shabanov <avshabanov@gmail.com> (https://github.com/avshabanov)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/truward/brikar-client-cli/issues"
+  },
+  "homepage": "https://github.com/truward/brikar-client-cli"
+}

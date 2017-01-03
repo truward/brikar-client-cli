@@ -1,2 +1,3 @@
-# brikar-client-cli
-Brikar support for CLI applications written in Javascript/NodeJS
+# Brikar Client CLI
+
+Utility library that provides backbone functionality for calling brikar services from applications written in Javascript/NodeJS.
